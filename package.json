@@ -1,0 +1,25 @@
+{
+  "name": "qiita_doc",
+  "version": "1.0.0",
+  "description": "qiita articles written by me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Baplisca/qiita_doc.git"
+  },
+  "author": "koetsu.yokota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Baplisca/qiita_doc/issues"
+  },
+  "homepage": "https://github.com/Baplisca/qiita_doc#readme",
+  "volta": {
+    "node": "18.18.0"
+  },
+  "devDependencies": {
+    "@qiita/qiita-cli": "^1.6.1"
+  }
+}
